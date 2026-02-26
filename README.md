@@ -17,7 +17,7 @@ Architecture • Performance • Production Deployment
 
 ## 🧰 Main Stack
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,vue,html,css,redis,docker,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,vite,js,vue,html,css,redis,docker,mysql)](https://skillicons.dev)
 ## 🛠 All Skills  
 
 ### 👨‍💻 Programming & Markup
@@ -48,6 +48,7 @@ Architecture • Performance • Production Deployment
 
 ### 🛠 Development & Build Tools
 <div>
+<a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white"></a>
 <a href="#"><img alt="Composer" src="https://img.shields.io/badge/Composer-885630.svg?logo=composer&logoColor=white"></a>
 <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
