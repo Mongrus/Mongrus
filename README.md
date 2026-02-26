@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=1500&center=true&vCenter=true&width=700&color=58A6FF&lines=Laravel+Developer;Vue+Developer;Fullstack+Developer)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=1500&center=true&vCenter=true&width=700&color=58A6FF&lines=Laravel+Developer;Vue+Developer;Fullstack+Developer" />
+</p>
 
 ## 👨‍💻 About
 
