@@ -33,6 +33,7 @@ Architecture • Performance • Production Deployment
 <a href="https://github.com/Mongrus"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"></a>  
 <a href="https://github.com/Mongrus"><img alt="Vue" src="https://img.shields.io/badge/Vue-42b883.svg?logo=vue.js&logoColor=white"></a>  
 <a href="https://github.com/Mongrus"><img alt="Pinia" src="https://img.shields.io/badge/Pinia-F7D336.svg?logo=pinia&logoColor=000000"></a>  
+<a href="https://github.com/Mongrus"><img alt="Inertia" src="https://img.shields.io/badge/Inertia-9553E9.svg?logo=inertia&logoColor=white"></a>
 <a href="https://github.com/Mongrus"><img alt="Redis" src="https://img.shields.io/badge/Redis-D82C20.svg?logo=redis&logoColor=white"></a>  
 <a href="https://github.com/Mongrus"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>  
 </div>
