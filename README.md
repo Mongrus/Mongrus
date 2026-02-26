@@ -25,6 +25,7 @@ Architecture • Performance • Production Deployment
 <a href="https://github.com/search?q=user%3AMongrus+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white"></a>  
 <a href="https://github.com/search?q=user%3AMongrus+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>  
 </div>
+
 ### ⚙️ Frameworks & Libraries
 <div>  
 <a href="https://github.com/Mongrus"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"></a>  
@@ -33,6 +34,7 @@ Architecture • Performance • Production Deployment
 <a href="https://github.com/Mongrus"><img alt="Redis" src="https://img.shields.io/badge/Redis-D82C20.svg?logo=redis&logoColor=white"></a>  
 <a href="https://github.com/Mongrus"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>  
 </div>
+
 ### 🗄 Databases & Infra
 <div>  
 <a href="https://github.com/search?q=user%3AMongrus+mysql"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>  
@@ -40,6 +42,7 @@ Architecture • Performance • Production Deployment
 <a href="https://github.com/Mongrus"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>  
 <a href="https://github.com/Mongrus"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>  
 </div>
+
 ### 🛠 Development & Build Tools
 <div>
 <a href="#"><img alt="Composer" src="https://img.shields.io/badge/Composer-885630.svg?logo=composer&logoColor=white"></a>
@@ -51,6 +54,7 @@ Architecture • Performance • Production Deployment
 <a href="#"><img alt="TablePlus" src="https://img.shields.io/badge/TablePlus-FFCC00.svg?logo=tableplus&logoColor=black"></a>
 <a href="#"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?logo=filezilla&logoColor=white"></a>
 </div>
+
 ### 🎨 UI & Styling
 <div>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -58,12 +62,14 @@ Architecture • Performance • Production Deployment
 <a href="#"><img alt="BEM" src="https://img.shields.io/badge/BEM-000000.svg"></a>
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
 </div>
+
 ### 🧠 Workflow & Productivity
 <div>
 <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white"></a>
 <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699.svg?logo=obsidian&logoColor=white"></a>
 </div>
+
 ### 🧩 Practical Experience With
 <div>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
